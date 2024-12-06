@@ -1,0 +1,8 @@
+{
+  "chainId": 137,
+  "address": "0xYourTokenAddress",
+  "name": "Credere Coin",
+  "symbol": "CRED",
+  "decimals": 18,
+  "logoURI": "https://github.com/AgustinMRedondo/CredereCoinLogo/blob/main/Isotipo_Credere2.png"
+}
